@@ -16,6 +16,7 @@ Small system for connect teachers to students.
 ## Technologies:
 - ReactJs
 - Rect-native
+- Expo
 - NodeJs
 - Typescript
 - Knex
